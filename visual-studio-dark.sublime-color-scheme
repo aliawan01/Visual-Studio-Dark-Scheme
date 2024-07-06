@@ -1,6 +1,5 @@
 {
 	"variables": {
-		// Define variables here
 		"white": "rgb(220, 220, 220)",
 		"black": "rgb(30, 30, 30)",
 		"selectedText": "rgb(38, 79, 120)",
@@ -208,20 +207,20 @@
 			"scope": "support.function.var",
 			"foreground": "var(keyword)"
 		},
-        {
-            "scope": "neovintageous_search_inc",
-            "background": "#a1efe4",
-            "foreground": "#272822"
-        },
-        {
-            "scope": "neovintageous_search_cur",
-            "background": "#a1efe4",
-            "foreground": "#272822"
-        },
-        {
-            "scope": "neovintageous_search_occ",
-            "background": "#e6db74",
-            "foreground": "#272822"
-        }
+	        {
+	            "scope": "neovintageous_search_inc",
+	            "background": "#a1efe4",
+	            "foreground": "#272822"
+	        },
+	        {
+	            "scope": "neovintageous_search_cur",
+	            "background": "#a1efe4",
+	            "foreground": "#272822"
+	        },
+	        {
+	            "scope": "neovintageous_search_occ",
+	            "background": "#e6db74",
+	            "foreground": "#272822"
+	        }
 	]
 }
