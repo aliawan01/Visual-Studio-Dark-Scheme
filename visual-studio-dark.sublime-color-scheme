@@ -22,7 +22,6 @@
 		"red": "rgb(140, 47, 47)",
 		"inactiveSelection": "rgb(53, 52, 53)",
 		"matchingBrace": "rgb(14, 69, 131)"
-
 	},
 	"globals": {
 		"foreground": "var(white)",
@@ -39,8 +38,6 @@
 		// "block_caret": "var(inactiveSelection)",
 		"brackets_options": "underline",
 		"brackets_foreground": "var(stringDelimiter)",
-
-
 	},
 	"rules": [
 		{
